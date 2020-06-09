@@ -1,9 +1,11 @@
 
 # Google el ghalaba Search engine
 >   simple search engine that searches the web for links or images and supports worldwide trends
-## Prerequisites
+## Project Structure
 
- 
+![project structure](images/APT.png)
+
+## Prerequisites
 
 * Android version above 7 (API level 23) for users
 * PHP MySQL for server
