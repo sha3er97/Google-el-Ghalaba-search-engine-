@@ -53,6 +53,8 @@ java MainRanker.class
 
 
 ## #Using Application :
+you can view our [Demo](https://youtu.be/-2y9VjXQX2E) or follow the following instructions :
+
 ![starter](images/starter.jpg)
 
 #### edit your server address to send requests to with the one you have :
